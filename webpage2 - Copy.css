@@ -1,0 +1,97 @@
+*{padding-top: 0;
+    margin: 0;
+}
+.top{
+   display: flex;
+    justify-content: space-between;
+    background-color: gray;
+} 
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightcoral;
+    align-items: center;
+}
+.list ul{
+    display: flex;
+    list-style-type: none;
+    padding: 10px;
+
+}
+li a{ 
+    text-decoration: none;
+    margin: 10px;
+}
+#data{
+    padding: 3rem;
+
+}
+.content{
+    display: flex;
+    align-items: center;
+    margin-bottom: 3rem;
+    justify-content: space-between;
+}
+.left{
+    width: 48%;
+}
+.right{
+    width: 48%;
+
+}
+.content p{
+    text-align: justify;
+}
+.top{
+    padding: 10px;
+}
+h1{
+    padding: 40px;
+}
+.top p{
+    padding: 10px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    
+
+}
+.top2{
+    width: 48%;
+    
+}
+.right2 h2{
+    margin-top: 20px;
+}
+.right2 .rightb{
+    padding: 10px;
+}
+.rightb input{
+    margin: 0.25rem;
+
+}
+.rightb textarea{
+    margin: 0.25rem;
+}
+.top2 p{
+    padding: 37px;
+}
+.rightb input{
+    padding-left: 13px;
+}
+textarea{
+    padding-left: 13px;
+}
+input{
+    width: 412px;
+}
+.rightb{
+    margin-top: 10px;
+}
+.right2 h2{
+    padding-top: 25px;
+}
+.send{
+    width: 40px}
